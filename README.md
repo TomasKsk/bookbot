@@ -1,2 +1,3 @@
 # bookbot
-boot.dev TS backend path/ python
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
